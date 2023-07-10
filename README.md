@@ -1,2 +1,3 @@
-alx-system engineering-devops
+#!/bin/bash
+alx-system_engineering-devops
 
